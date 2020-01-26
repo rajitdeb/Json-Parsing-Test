@@ -1,0 +1,13 @@
+{
+  "name": {
+    "firstName": "X",
+    "lastName": "Y"
+  },
+  "currentCity": "New York",
+  "currentCompany": "XCompany Pvt. Ltd",
+  "companyDescription": [
+    "Corporate",
+    "Media Company",
+    "Does shooting and promotions for other channels on Youtube as well as corporates"
+  ]
+}
